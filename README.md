@@ -24,7 +24,7 @@ Hide forge mods from showing up to the server.
 # Credit:
 
 ## Huge Thanks To:
-1. [CheapPlayz Aka Me](https://github.com/CheapPlayz)
+1. [Biraru (BiraruX)](https://github.com/BiraruX)
 2. [Cleanroom Team](https://github.com/orgs/CleanroomMC/people)
 3. [RongMario](https://github.com/Rongmario)
 
